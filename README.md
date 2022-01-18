@@ -4,4 +4,4 @@ Amazon link to the book is this -->  https://www.amazon.com/Structures-Algorithm
 (not affiliate)
 
 ## Chapter 1 Python Primer: 
-Questions 20, 27 and 29 left. 
+Questions 27 and 29 left. 
