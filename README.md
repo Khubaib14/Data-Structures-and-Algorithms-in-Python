@@ -8,3 +8,6 @@ Questions 27 and 29 left.
 
 ## Chapter 2 Software Developement
 Questions 17, 24 (can't find a good class-object diagram software), 29, 30, 36 and 37. (6 in total) 
+
+## Chapter 3 Algorithm Analysis
+Questions 14, 22, 28, 37, 39, 41, 43, 44(b), 49, 53, 55, 56, 57, 58 (14 in total)
