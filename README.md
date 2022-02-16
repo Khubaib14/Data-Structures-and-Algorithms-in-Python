@@ -11,3 +11,6 @@ Questions 17, 24 (can't find a good class-object diagram software), 29, 30, 36 a
 
 ## Chapter 3 Algorithm Analysis
 Questions 14, 22, 28, 37, 39, 41, 43, 44(b), 49, 53, 58 (11 in total)
+
+## Chapter 4 Recursion
+I found recursion very hard to grasp. So I solved all the problems that I could. Hope to come back and attempt the rest again.
